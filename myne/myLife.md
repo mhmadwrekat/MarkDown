@@ -8,8 +8,8 @@
 - **Cofee**
 
 ---
-|Time|Action|
-|---------------------------------------------------|---------------------------------------------------|
+| Time | Action |
+|-------------------------|-------------------------|
 |5 Am|Change Inside + Fajer + 100 Tasbeeh + Alkursi + quaan|
 |8 Am|Change Clothes + Alduha + perfume & nails + Tarteeb|
 |8:30 Am|2 Eggs + 5 Shofan + Milk + Oil olive + 400 Water|
@@ -25,3 +25,5 @@
 |10 Pm|Karb + broteen|
 |11:30 Pm|Broteen|
 |12 Am|Teeth + Hair + Sleep + Vitamine|
+|---|---|  
+
