@@ -8,8 +8,8 @@
 - **Cofee**
 
 ---
-|time      |action                     |
-|---------------------|--------------------------|
+| time      | action |
+| :---        |    :----:   |
 |5 Am                 |Change Inside + Fajer + 100 Tasbeeh + Alkursi + quaan  |
 |8 Am                 |Change Clothes + Alduha + perfume & nails + Tarteeb  |
 |8:30 Am              |2 Eggs + 5 Shofan + Milk + Oil olive + 400 Water |
@@ -27,13 +27,3 @@
 |12 Am                |Teeth + Sleep + Vitamine  |
 
 ---
-|name of subject      |links                     |
-|---------------------|--------------------------|
-|growth               |[growth](https://mhmadwrekat.github.io/reading-notes/Code 102/growth)|
-|learning markdown               |[read01](https://mhmadwrekat.github.io/reading-notes/Code 102/read01)|
-|Structure web pages               |[read02](https://mhmadwrekat.github.io/reading-notes/Code 102/read02)|
-|design web pages               |[read03](https://mhmadwrekat.github.io/reading-notes/Code 102/read03)|
-|Dynamic web pages               |[read04](https://mhmadwrekat.github.io/reading-notes/Code 102/read04)|
-|Operators and Loops       |[read05](https://mhmadwrekat.github.io/reading-notes/Code 102/read05)|
-|Design web pages with CSS    |[read06](https://mhmadwrekat.github.io/reading-notes/Code 102/read06)|
-|Programming with JavaScript|[read07](https://mhmadwrekat.github.io/reading-notes/Code 102/read07)|
