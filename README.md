@@ -1,12 +1,1 @@
 # MarkDown
-
-
-
-
-
-
-
-
-
-
-[.....](/myne/myLife.md)
